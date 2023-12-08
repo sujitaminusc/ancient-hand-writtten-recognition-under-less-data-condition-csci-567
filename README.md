@@ -40,7 +40,7 @@ For getting the accuracy of EMNIST run:
 ```
 python emnist_run_pickle.py
 ```
-# Exceution of Code (hdf5, h5) 
+# Exceution of Code 
 
 You need to have windows or mac. Certain laptops and OS can't run this code due to chipset and os version issue. 
 It is known best to work with macOS 14.1.1 and Intel Chipset.
