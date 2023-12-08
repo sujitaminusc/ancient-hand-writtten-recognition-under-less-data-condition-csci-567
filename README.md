@@ -11,7 +11,7 @@ conda create --name pickleenv python=3.11.5
 conda activate pickleenv 
 ```
 ```
-pip install -r requirements_pickle.txt
+pip install -r require_pickle.txt
 ```
 
 
