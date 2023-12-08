@@ -43,7 +43,6 @@ python emnist_run_pickle.py
 Now for running the code. 
 You need to have windows or mac. Certain laptops and OS can't run this code due to chipset and os version issue. 
 It is known best to work with macOS 14.1.1 and Intel Chipset.
-Training time required is 7-11 days.
 ```
 conda create --name myenv python=3.6.8
 ```
