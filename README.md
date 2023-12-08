@@ -2,7 +2,7 @@
 
 # Goal
 The primary goal of this project is to significantly improve the accuracy of handwritten character recognition for ancient indian languages under very less data samples per class. Since these languages have historically faced challenges due
-to the scarity availability of labeled data. We aim to develop an innovative approach that leverages Capsule Networks to address this issue and achieve state-of-the-art
+to the scarity of labeled data. We aim to develop an innovative approach that leverages Capsule Networks to address this issue and achieve state-of-the-art
 performance with 190 training samples per character. By doing so, we seek to enable more comprehensive analysis and interpretation of historical texts. This project holds considerable importance as
 it addresses a longstanding problem in the field of character recognition. Ancient languages, being a crucial part of our cultural heritage, often lack extensive labeled datasets. Consequently, existing
 methods struggle to provide accurate character recognition, impeding historical research and preservation efforts. In our research, we introduce a novel approach to address the issue of limited dataset sizes using capsule networks. We leverage Capsule Networks capacity to augment data through manipulation of instantiation parameters. CapsNets not only learn an image’s presence but also its attributes, making them advantageous for character recognition with limited data. Our design modifies the capsule network architecture by substituting the decoder
