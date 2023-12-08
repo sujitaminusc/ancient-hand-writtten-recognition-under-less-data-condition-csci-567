@@ -1,2 +1,2 @@
-# ancient_hand_writtten_recognition_under_less_data_condition
+# Ancient Handwritten Recognition under data deficient condition
  
