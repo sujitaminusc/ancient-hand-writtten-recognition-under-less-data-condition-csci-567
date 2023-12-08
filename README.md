@@ -9,6 +9,7 @@ methods struggle to provide accurate character recognition, impeding historical 
 network from Capsule network research paper with a deconvolutional network and making adjustments to the capsule network. By introducing a controlled level of noise to instantiation parameters, we simulate human like realistic variations, leading to a more effective data generation method compared
 to traditional affine transformations this data is auto-fed to the training model. Our system closely matches state-of-the-art results with just 190 data points per character.
 
+# Exceution of Pickle file (hdf5, h5)
 We have provided hdf5, h5 file for showing our accuracy. 
 To run the pickle file to get the accuracy that we mentioned in the results. Please follow these steps.  
 
@@ -39,8 +40,8 @@ For getting the accuracy of EMNIST run:
 ```
 python emnist_run_pickle.py
 ```
+# Exceution of Code (hdf5, h5) 
 
-Now for running the code. 
 You need to have windows or mac. Certain laptops and OS can't run this code due to chipset and os version issue. 
 It is known best to work with macOS 14.1.1 and Intel Chipset.
 ```
