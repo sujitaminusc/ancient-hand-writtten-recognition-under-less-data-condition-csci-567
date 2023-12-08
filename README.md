@@ -3,7 +3,8 @@
 To run the pickle file to get the accuracy that we mentioned in the results. Please follow these steps.  
 
 You need anaconda install in your system.
-Then create an environment 
+Then create an environment. 
+Go to the root folder of the project.
 ```
 conda create --name pickleenv python=3.11.5
 ```
@@ -31,7 +32,7 @@ python emnist_run_pickle.py
 Now for running the code. 
 You need to have windows or mac. Certain laptops and OS can't run this code due to chipset and os version issue. 
 It is known best to work with macOS 14.1.1 and Intel Chipset.
-
+Training time required is 7-11 days.
 ```
 conda create --name myenv python=3.6.8
 ```
@@ -49,7 +50,7 @@ To run the code for training.
 python main.py --cnt 190
 ```
 here 190 is the number of training samples per class.
-
+After training is completed you can generate new images as required. Just have to provide the count of the image (--samples_to_generate 3) 
 This command generates new images:
 ```
 python main.py -dg --save_dir emnist_bal_200/ -w emnist_bal_200/trained_model.h5 --samples_to_generate 10
