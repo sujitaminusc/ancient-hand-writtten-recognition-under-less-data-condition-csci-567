@@ -41,6 +41,11 @@ For getting the accuracy of EMNIST run:
 python emnist_run_pickle.py
 ```
 # Exceution of Code 
+All the datasets are already added to the code base. So no need to download. 
+But, if you want to have a look at the dataset. Here are the links. 
+- [Tamil dataset](https://www.kaggle.com/datasets/sudalairajkumar/tamil-nlp)
+- [Sanskrit dataset](https://www.kaggle.com/datasets/ashokpant/devanagari-character-dataset/data)
+- [EMNIST dataset](https://www.nist.gov/itl/products-and-services/emnist-dataset)
 
 You need to have windows or mac. Certain laptops and OS can't run this code due to chipset and os version issue. 
 It is known best to work with macOS 14.1.1 and Intel Chipset.
